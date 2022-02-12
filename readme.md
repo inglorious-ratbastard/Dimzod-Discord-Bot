@@ -61,7 +61,7 @@ ___
 If you would like to report a Bug or Issue in this project feel free to do so under the Issues tab or contact me directly about any major concerns.
 ___
 #### **Source and License:**
-B-Spike Discord Bot was created by [Javier Yzaguirre](https://github.com/inglorious-ratbastard) and is considered free and open source to use as reference for those wanting to create their own bot or contribute to this project. 
+Dimzod Discord Bot was created by [Javier Yzaguirre](https://github.com/inglorious-ratbastard) and is considered free and open source to use as reference for those wanting to create their own bot or contribute to this project. 
 ___
 #### **External Resources:**
 [FFmpeg](https://ffmpeg.zeranoe.com/builds/)<br>
