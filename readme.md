@@ -1,12 +1,14 @@
-## Dimzod Bot
+## Dimzod Discord Bot
+![Dimzod](https://cdn.discordapp.com/app-icons/621831822128447500/3d8de96a443357823a91dfcae3b4a53a.png?size=256)<br>
+![DiscordJS](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 #### Discord Audiophile Jukebox Bot 
-___
-#### **About:**
-Dimzod Audiophile Jukebox was designed for the purpose of extracting audio from YouTube videos to create an enhanced multi-purpose bot for Discord. 
+**Dimzod Audiophile Jukebox** was designed for the purpose of extracting audio from **YouTube** videos to create an enhanced multi-purpose bot for Discord. 
 
-* Note: You have to download [FFmpeg](https://ffmpeg.zeranoe.com/builds/) in order for for this to work. 
+* **Note:** You have to download [FFmpeg](https://ffmpeg.zeranoe.com/builds/) in order for for this to work. 
 
-* Limitations: Currently Repl.it does not support FFmpeg on its server for its own internal reasons. <br> This bot will **not** run any audio commands if hosted there. 
+* **Limitations:** Currently Repl.it does not support FFmpeg on its server for its own internal reasons. <br> This bot will **not** run any audio commands if hosted there. 
 
 #### **Commands:**
 Guild members can use the `@Dimzod` command to initilize a response from the bot.<br>
@@ -58,12 +60,15 @@ Fixes the bugs and errors previously listed above.
 Audio *will* play in channel but slightly choppy. 
 ___
 #### **Reporting Bugs or Issues:**
-If you would like to report a Bug or Issue in this project feel free to do so under the Issues tab or contact me directly about any major concerns.
+If you would like to report a **Bug** or **Issue** in this project feel free to do so under the **Issues** tab or contact me directly about any major concerns. Ideas for improvements or enhancements to this project are also encouraged. Please address these matters by sending a **Pull Request** as they will be reviewed for potential consideration.
+##### Your contribution will be reviewed and considered for merge into Main or a separate branch.<br> Thank you for assisting in the development and/or advancement of this project.
 ___
 #### **Source and License:**
-Dimzod Discord Bot was created by [Javier Yzaguirre](https://github.com/inglorious-ratbastard) and is considered free and open source to use as reference for those wanting to create their own bot or contribute to this project. 
+**Dimzod Discord Bot** was created by [Javier Yzaguirre](https://github.com/inglorious-ratbastard) and is considered free and open source to use as reference for those wanting to create their own bot or contribute to this project. 
 ___
 #### **External Resources:**
+[DiscordJS](https://discord.js.org/#/docs/discord.js/main/general/welcome)<br>
+[ExpressJS](https://expressjs.com/en/api.html)<br>
 [FFmpeg](https://ffmpeg.zeranoe.com/builds/)<br>
 [Repl.it](https://repl.it/)<br>
 [UptimeRobot](https://uptimerobot.com/)
